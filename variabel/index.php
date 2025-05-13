@@ -9,9 +9,16 @@
 // $name yogi;
 
 /*memberikan nilai variabel*/
-$name_lengkap="yogi";
-$umur=17;
-// echo "nama saya $name_lengkap umur $umur tahun";
-print_r($name_lengkap);
+$name_lengkap="saroh";
+$umur=23;
+
+echo "Nama saya $name_lengkap";
+echo "<br>";
+echo "umur: $umur";
+echo "<br>";
+//satu baris
+echo "<br>";
+echo "Nama saya $name_lengkap umur $umur tahun";
+
 
 ?>
