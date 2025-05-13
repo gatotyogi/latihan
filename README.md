@@ -36,8 +36,8 @@ $name+lengkap <br>
 $name-lengkap <br>
 $.name
 </p>
-<h3><b></b>Tips penulisan variabel:<br>
-Ada dua penulisan variabel.</b></h3>
+<h3><b></b>Tips penulisan variabel:</b></h3>
+<h4>Ada dua penulisan variabel</h4>
 <p>
 1. snake_case : menggunakan huruf kecil untuk setiap variabel dan underscore(_) sebagai pemisah kata.
     Contoh: $name_yogi, $koneksi_db, $user_name
