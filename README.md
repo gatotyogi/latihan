@@ -36,4 +36,18 @@ $name+lengkap <br>
 $name-lengkap <br>
 $.name
 </p>
+<h3><b></b>Tips penulisan variabel:<br>
+Ada dua penulisan variabel.</b></h3>
+<p>
+1. snake_case : menggunakan huruf kecil untuk setiap variabel dan underscore(_) sebagai pemisah kata.
+    Contoh: $name_yogi, $koneksi_db, $user_name
+<br>
+2. camelCase : menggunakan huruf kecil pada kata pertama, kemudian menggunakan huruf besar pada karakter  
+    pertama, kedua, ketiga dan seterusnya.
+    Contoh: $nameYogi, $koneksiDatabase, $nameLengkap
+<br>
+Kalian bebas menggunakan penulisan yang mana saja, apakah snake_case atau camelCase.
+</p>
+
+
 
