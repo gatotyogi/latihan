@@ -15,7 +15,7 @@
 // echo GAJI;
 $nama="saroh";
 $umur=23;
-$kerja="Guru Hononer";
+$kerja="Guru Honorer";
 define("GAJI", 1000000);
 // echo "Nama Saya $nama umur $umur pekerjaan $kerja dengan gaji /bulan Rp. ". GAJI;
 echo "Nama: $nama";
