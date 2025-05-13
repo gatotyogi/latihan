@@ -6,7 +6,7 @@
 /*variabel salah*/
 // $30_name;
 // $30 name;
-// $name yogi;
+// $name lengkap;
 
 /*memberikan nilai variabel*/
 $name_lengkap="saroh";
