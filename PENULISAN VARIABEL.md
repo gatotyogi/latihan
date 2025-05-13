@@ -42,7 +42,7 @@ $.name
 1. <b>snake_case</b> : menggunakan huruf kecil untuk setiap variabel dan underscore(_) sebagai pemisah kata.<br>
    &nbsp;&nbsp;&nbsp;Contoh: $name_lengkap, $koneksi_db, $user_name
 <br>
-2. <b>camelCase</b> : menggunakan huruf kecil pada kata pertama, kemudian menggunakan huruf besar pada karakter pertama, kedua, ketiga dan &nbsp;&nbsp;seterusnya.<br>
+2. <b>camelCase</b> : menggunakan huruf kecil pada kata pertama, kemudian menggunakan huruf besar pada karakter pertama, kedua, &nbsp;&nbsp;ketiga dan seterusnya.<br>
    &nbsp;&nbsp;&nbsp;Contoh: $nameLengkap, $koneksiDatabase
 <br><br>
 Kalian bebas menggunakan penulisan yang mana saja, apakah <b>snake_case</b> atau <b>camelCase</b>.
