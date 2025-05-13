@@ -40,10 +40,10 @@ $.name
 <h4>Ada dua penulisan variabel</h4>
 <p>
 1. <b>snake_case</b> : menggunakan huruf kecil untuk setiap variabel dan underscore(_) sebagai pemisah kata.<br>
-   Contoh: $name_lengkap, $koneksi_db, $user_name
+   &nbsp;Contoh: $name_lengkap, $koneksi_db, $user_name
 <br>
 2. <b>camelCase</b> : menggunakan huruf kecil pada kata pertama, kemudian menggunakan huruf besar pada karakter pertama, kedua, ketiga dan seterusnya.<br>
-   Contoh: $nameLengkap, $koneksiDatabase
+   &nbsp;Contoh: $nameLengkap, $koneksiDatabase
 <br>
 Kalian bebas menggunakan penulisan yang mana saja, apakah snake_case atau camelCase.
 </p>
