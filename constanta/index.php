@@ -27,6 +27,6 @@ echo "<br>";
 echo "Gaji: Rp. ".GAJI;
 //satu baris
 echo "<br><br>";
-echo "Nama saya $nama umur $umur pekerjaan $kerja dengan gaji Rp. ".GAJI;
+echo "Nama saya $nama, umur $umur tahun, pekerjaan $kerja dengan gaji Rp. ".GAJI;
 
 ?>
