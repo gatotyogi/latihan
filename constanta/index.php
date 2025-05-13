@@ -1,10 +1,10 @@
 <?php
 //menggunakan constanta
-// const situs= "yogi.com";
+// const situs= "saroh.com";
 // echo situs;
 
 //menggunakan define
-// define("situs", "yogi.com");
+// define("situs", "saroh.com");
 // echo situs;
 
 /* menampilkan variabel dan konstanta*/
