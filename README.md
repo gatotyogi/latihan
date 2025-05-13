@@ -25,3 +25,15 @@ $NAME_LENGKAP	<br>
 $_NAME_LENGKAP	<br>				
 $_30_NAME
 </p>
+<h3><b></b>Penulisan variabel salah:</b></h3>
+<p>
+$30name <br>
+$30-name <br>
+$name! <br>
+$name lengkap <br>
+$name.lengkap <br>
+$name+lengkap <br>
+$name-lengkap <br>
+$.name
+</p>
+
