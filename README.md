@@ -13,4 +13,15 @@ Mengutip wikipedia, adalah lokasi penyimpanan abstrak yang dipasangkan dengan na
 6.Variabel bersifat Case Sensitif (huruf besar dan kecil dianggap berbeda).<br>
 7.Variabel tidak memerlukan deklarasi terlebih dahulu.
 </p>
-
+<h3><b></b>Penulisan variabel benar:	</b></h3>
+<p>
+$name <br>
+$_name <br>							
+$name_lengkap	<br>					
+$name30	<br>					
+$name30_lengkap <br>					
+$name_30 <br>					
+$NAME_LENGKAP	<br>					
+$_NAME_LENGKAP	<br>				
+$_30_NAME
+</p>
