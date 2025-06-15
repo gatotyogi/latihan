@@ -8,11 +8,11 @@ Di dalam PHP. Terdapat 8 jenis tipe data dikelompokkan menjadi 3 bagian:</p>
 3. Boolean: true atau false</br>
 4. string (teks): “A”, “B”, “John”, “aku sedang belajar php” dst… </br>
 
-<h3><b>Tipe data composite / tipe data compound:</b>b></h3>
+<h3><b>Tipe data composite / tipe data compound:</b></h3>
 1. Array </br>
 2. Object
 
-Tipe data khusus:
-Resource
-Null
+<h3><b>Tipe data khusus:</b></h3>
+1. Resource </br>
+2. Null
 
