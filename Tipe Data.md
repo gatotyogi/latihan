@@ -6,4 +6,13 @@ Di dalam PHP. Terdapat 8 jenis tipe data dikelompokkan menjadi 3 bagian:</p>
 1. Integer (angka bulat): 2, 3, 5, 100, 900 dst..</br>
 2. Float / Double (angka pecahan): 3.14, 2.5, 175.66 dst..</br>
 3. Boolean: true atau false</br>
-4. string (teks): “A”, “B”, “John”, “aku sedang belajar php” dst…
+4. string (teks): “A”, “B”, “John”, “aku sedang belajar php” dst… </br>
+
+<h3><b>Tipe data composite / tipe data compound:</b>b></h3>
+1. Array </br>
+2. Object
+
+Tipe data khusus:
+Resource
+Null
+
