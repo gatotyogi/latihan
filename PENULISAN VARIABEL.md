@@ -45,7 +45,7 @@ $.name
 2. <b>camelCase</b> : menggunakan huruf kecil pada kata pertama, kemudian menggunakan huruf besar pada karakter pertama, kedua, &nbsp;&nbsp;&nbsp;ketiga dan seterusnya.<br>
    &nbsp;&nbsp;&nbsp;Contoh: $nameLengkap, $koneksiDatabase
 <br><br>
-Kalian bebas menggunakan penulisan yang mana saja, apakah <b>snake_case</b> atau <b>camelCase</b>.
+
 </p>
 
 
