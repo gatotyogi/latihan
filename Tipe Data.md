@@ -1,4 +1,4 @@
-<h3><b>Tipe Data<b></h3>
+<h3><b>Tipe Data</b></h3>
 <p>Tipe data adalah klasifikasi jenis nilai yang disimpan di sebuah variabel
 Di dalam PHP. Terdapat 8 jenis tipe data dikelompokkan menjadi 3 bagian:</p>
 
